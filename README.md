@@ -1,4 +1,4 @@
-# Project Title
+# zig-c-interop-example
 
 This project demonstrates how to build and run a C and Zig application that interoperate with each other.
 
